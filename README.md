@@ -1,2 +1,2 @@
 # TLaunchScreenAnimation
-![image](https://github.com/tikeyc/TLaunchScreenAnimation/raw/master/ReadMe/screen..gif)
+![image](https://github.com/tikeyc/TLaunchScreenAnimation/raw/master/ReadMe/screen.gif)
